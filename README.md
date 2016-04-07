@@ -1,6 +1,9 @@
 # Dockerized Environment for CodeTransformer
 Build scripts modified from https://github.com/AlexMarginean/dockerizedROSE
+
 Requires access to https://hub.docker.com/r/naomilwx/dockerrosebuild/ for base image
+
+The source for the CodeTransformer is downloaded into `project/development`
 
 ## About Docker
 Docker is a relatively recent technology that developers and sysadmins use to build, ship, and run distributed applications. Compared to virtual machines, docker is more lightweight and efficient, since it provides an additional layer of abstraction of operating-system-level virtualization. You can read more about it at https://www.docker.com/ .
